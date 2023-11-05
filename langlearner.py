@@ -1,4 +1,3 @@
-
 def language_learning(level):
     # The dictionary contains the Spanish greeting vocabulary for Level 1.
     # Vocabulary Source: https://www.spanishdict.com/guide/greetings-in-spanish
