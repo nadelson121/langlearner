@@ -8,4 +8,5 @@ LangLearner is a text-based application that teaches and tests the user on a set
 *Version 2:* The user can also select the format ("flashcards" or "test").
 
 # Future Updates
-• Making this program a GUI application
+• Making this program a GUI application (either using tkinter or Visual Basic)
+• Parsing the data from SpanishDictionary or other sources
